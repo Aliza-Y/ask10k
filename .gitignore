@@ -1,0 +1,21 @@
+# data
+data/raw/*.pdf
+qdrant_storage/
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# env vars / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

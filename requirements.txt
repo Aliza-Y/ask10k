@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+pymupdf
+sentence-transformers
+qdrant-client
+fastapi
+uvicorn[standard]
+streamlit
+pytest
+python-dotenv
