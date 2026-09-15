@@ -8,3 +8,5 @@ uvicorn[standard]
 streamlit
 pytest
 python-dotenv
+
+# Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
