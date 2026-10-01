@@ -12,6 +12,10 @@ def get_client() -> Groq:
     return Groq(api_key=api_key)
 
 
+def normalize_citations(text: str) -> str:
+    return text.replace("【", "[").replace("】", "]")
+
+
 def generate(system_prompt: str, user_prompt: str) -> str:
     client = get_client()
     response = client.chat.completions.create(
@@ -22,4 +26,5 @@ def generate(system_prompt: str, user_prompt: str) -> str:
         ],
         temperature=0.1,
     )
-    return response.choices[0].message.content
+    raw_text = response.choices[0].message.content
+    return normalize_citations(raw_text)
