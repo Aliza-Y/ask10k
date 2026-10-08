@@ -1,0 +1,401 @@
+[
+  {
+    "id": "q01",
+    "category": "single_fact_apple",
+    "question": "What was Apple's total net sales for fiscal 2025?",
+    "expected_answer": "$416,161 million (about $416.2B)",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        25,
+        26,
+        32
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q02",
+    "category": "single_fact_apple",
+    "question": "What was Apple's net income in fiscal 2025?",
+    "expected_answer": "$112,010 million",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        32
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q03",
+    "category": "single_fact_apple",
+    "question": "How many full-time equivalent employees did Apple have as of September 27, 2025?",
+    "expected_answer": "About 166,000",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        7
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q04",
+    "category": "single_fact_apple",
+    "question": "What were Apple's iPhone net sales in fiscal 2025?",
+    "expected_answer": "$209,586 million",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        26,
+        39
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q05",
+    "category": "single_fact_apple",
+    "question": "What was Apple's Services gross margin percentage in fiscal 2025?",
+    "expected_answer": "75.4%",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        27
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q06",
+    "category": "single_fact_apple",
+    "question": "What were Greater China net sales in fiscal 2025, and did they rise or fall?",
+    "expected_answer": "$64,377 million, down 4%",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        25
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q07",
+    "category": "single_fact_apple",
+    "question": "How much common stock did Apple repurchase in fiscal 2025?",
+    "expected_answer": "$89.3 billion (402 million shares)",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        29,
+        47
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q08",
+    "category": "single_fact_apple",
+    "question": "What fine did the European Commission impose on Apple under the Digital Markets Act in April 2025?",
+    "expected_answer": "€500 million",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        21
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q09",
+    "category": "single_fact_walmart",
+    "question": "What were Walmart's total revenues in fiscal 2026?",
+    "expected_answer": "$713,163 million (about $713.2B), up 4.7%",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        38,
+        52,
+        77
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q10",
+    "category": "single_fact_walmart",
+    "question": "What was Walmart's consolidated net income attributable to Walmart in fiscal 2026?",
+    "expected_answer": "$21,893 million",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        52,
+        53,
+        63
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q11",
+    "category": "single_fact_walmart",
+    "question": "What were Walmart's diluted earnings per share in fiscal 2026?",
+    "expected_answer": "$2.73",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        52
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q12",
+    "category": "single_fact_walmart",
+    "question": "What was Walmart's consolidated operating income in fiscal 2026?",
+    "expected_answer": "$29,825 million",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        35,
+        36,
+        38
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q13",
+    "category": "single_fact_walmart",
+    "question": "How many stores does Walmart operate, and in how many countries?",
+    "expected_answer": "More than 10,900 stores in 19 countries",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        6
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q14",
+    "category": "single_fact_walmart",
+    "question": "About how many associates does Walmart employ worldwide?",
+    "expected_answer": "About 2.1 million",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        6,
+        10
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q15",
+    "category": "single_fact_walmart",
+    "question": "What was the annual dividend per share for fiscal 2026, and what is it for fiscal 2027?",
+    "expected_answer": "$0.94 for fiscal 2026 and $0.99 for fiscal 2027",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        44
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q16",
+    "category": "single_fact_walmart",
+    "question": "What capital expenditures did Walmart have in fiscal 2026, and what does it project for fiscal 2027?",
+    "expected_answer": "$26,642 million in fiscal 2026; about $25-27 billion projected for fiscal 2027",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        36,
+        42
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q17",
+    "category": "single_fact_jpmorgan",
+    "question": "What was JPMorgan's net income in 2025?",
+    "expected_answer": "$57,048 million (about $57.0B)",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46,
+        49,
+        167
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q18",
+    "category": "single_fact_jpmorgan",
+    "question": "What was JPMorgan's total net revenue in 2025?",
+    "expected_answer": "$182,447 million (about $182.4B), up 3%",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46,
+        49,
+        53
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q19",
+    "category": "single_fact_jpmorgan",
+    "question": "What were JPMorgan's diluted earnings per share in 2025?",
+    "expected_answer": "$20.02",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46,
+        49,
+        167
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q20",
+    "category": "single_fact_jpmorgan",
+    "question": "What was JPMorgan's CET1 capital ratio at year-end 2025 (Standardized)?",
+    "expected_answer": "14.6%",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q21",
+    "category": "single_fact_jpmorgan",
+    "question": "What were JPMorgan's total assets at December 31, 2025?",
+    "expected_answer": "$4,424,900 million (about $4.42 trillion)",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46,
+        57
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q22",
+    "category": "single_fact_jpmorgan",
+    "question": "How many employees did JPMorgan have at December 31, 2025?",
+    "expected_answer": "318,512, in 66 countries",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        9
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q23",
+    "category": "single_fact_jpmorgan",
+    "question": "What was the Asset & Wealth Management segment's net income in 2025?",
+    "expected_answer": "$6,522 million (about $6.5B), up 20%",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        78
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q24",
+    "category": "single_fact_jpmorgan",
+    "question": "What dividends per share did JPMorgan declare in 2025?",
+    "expected_answer": "$5.80 per share (up from $4.80 in 2024)",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46,
+        170
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q25",
+    "category": "cross_company",
+    "question": "Among Apple, Walmart and JPMorgan, which reported the highest net income in its latest fiscal year, and what were the three figures?",
+    "expected_answer": "Apple, at $112,010M (FY ended Sept 27, 2025). JPMorgan reported $57,048M (2025) and Walmart $21,893M (FY ended Jan 31, 2026).",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        32,
+        33,
+        39
+      ],
+      "walmart_10k.pdf": [
+        52,
+        53,
+        63
+      ],
+      "jpmorgan_10k.pdf": [
+        46,
+        49,
+        167
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q26",
+    "category": "cross_company",
+    "question": "Compare the diluted earnings per share of Apple, Walmart and JPMorgan. Which is highest?",
+    "expected_answer": "JPMorgan is highest at $20.02. Apple is $7.46 and Walmart is $2.73.",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        32
+      ],
+      "walmart_10k.pdf": [
+        52
+      ],
+      "jpmorgan_10k.pdf": [
+        46,
+        49,
+        167
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q27",
+    "category": "cross_company",
+    "question": "How many employees does each of the three companies have?",
+    "expected_answer": "Apple has about 166,000 full-time equivalent employees. Walmart has about 2.1 million associates. JPMorgan has 318,512 employees.",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        7
+      ],
+      "walmart_10k.pdf": [
+        6,
+        10
+      ],
+      "jpmorgan_10k.pdf": [
+        9
+      ]
+    },
+    "answerable": true
+  },
+  {
+    "id": "q28",
+    "category": "unanswerable",
+    "question": "What was Tim Cook's total compensation in fiscal 2025?",
+    "expected_answer": "NOT IN FILING. Apple's Item 11 says executive compensation is in the 2026 Proxy Statement. Correct behavior: say it cannot be found.",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        56
+      ]
+    },
+    "answerable": false
+  },
+  {
+    "id": "q29",
+    "category": "unanswerable",
+    "question": "What is Walmart's stock price today?",
+    "expected_answer": "NOT IN FILING. A 10-K has no live market data. Correct behavior: say it cannot be found.",
+    "acceptable_pages": {},
+    "answerable": false
+  },
+  {
+    "id": "q30",
+    "category": "unanswerable",
+    "question": "What were JPMorgan's first-quarter 2026 earnings?",
+    "expected_answer": "NOT IN FILING. The filing covers the year ended Dec 31, 2025. Correct behavior: say it cannot be found.",
+    "acceptable_pages": {},
+    "answerable": false
+  }
+]
