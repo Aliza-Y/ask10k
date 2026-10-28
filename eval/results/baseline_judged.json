@@ -1,0 +1,2100 @@
+[
+  {
+    "id": "q01",
+    "category": "single_fact_apple",
+    "question": "What was Apple's total net sales for fiscal 2025?",
+    "expected_answer": "$416,161 million (about $416.2B)",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        25,
+        26,
+        32
+      ]
+    },
+    "answerable": true,
+    "answer": "Apple’s total net sales for fiscal 2025 were $416,161 million [apple_10k, page 26].",
+    "retrieved": [
+      {
+        "source": "apple_10k",
+        "page": 26,
+        "score": 0.82
+      },
+      {
+        "source": "apple_10k",
+        "page": 51,
+        "score": 0.785
+      },
+      {
+        "source": "apple_10k",
+        "page": 32,
+        "score": 0.782
+      },
+      {
+        "source": "apple_10k",
+        "page": 27,
+        "score": 0.781
+      },
+      {
+        "source": "apple_10k",
+        "page": 25,
+        "score": 0.768
+      },
+      {
+        "source": "apple_10k",
+        "page": 39,
+        "score": 0.759
+      },
+      {
+        "source": "apple_10k",
+        "page": 24,
+        "score": 0.747
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 68,
+        "score": 0.742
+      }
+    ],
+    "cited": [
+      [
+        "apple_10k",
+        26
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides the exact net sales figure $416,161 million as expected."
+    }
+  },
+  {
+    "id": "q02",
+    "category": "single_fact_apple",
+    "question": "What was Apple's net income in fiscal 2025?",
+    "expected_answer": "$112,010 million",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        32
+      ]
+    },
+    "answerable": true,
+    "answer": "Apple’s net income for fiscal 2025 was **$112,010 million**[apple_10k, page 32].",
+    "retrieved": [
+      {
+        "source": "apple_10k",
+        "page": 32,
+        "score": 0.786
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 68,
+        "score": 0.781
+      },
+      {
+        "source": "apple_10k",
+        "page": 33,
+        "score": 0.774
+      },
+      {
+        "source": "apple_10k",
+        "page": 44,
+        "score": 0.765
+      },
+      {
+        "source": "apple_10k",
+        "page": 26,
+        "score": 0.764
+      },
+      {
+        "source": "apple_10k",
+        "page": 34,
+        "score": 0.763
+      },
+      {
+        "source": "apple_10k",
+        "page": 43,
+        "score": 0.763
+      },
+      {
+        "source": "apple_10k",
+        "page": 27,
+        "score": 0.762
+      }
+    ],
+    "cited": [
+      [
+        "apple_10k",
+        32
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides the exact net income figure of $112,010 million as expected."
+    }
+  },
+  {
+    "id": "q03",
+    "category": "single_fact_apple",
+    "question": "How many full-time equivalent employees did Apple have as of September 27, 2025?",
+    "expected_answer": "About 166,000",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        7
+      ]
+    },
+    "answerable": true,
+    "answer": "The provided excerpts do not contain any information about Apple’s full‑time equivalent employee count as of September 27 2025. Therefore, I cannot answer the question from the given material.",
+    "retrieved": [
+      {
+        "source": "apple_10k",
+        "page": 32,
+        "score": 0.747
+      },
+      {
+        "source": "apple_10k",
+        "page": 34,
+        "score": 0.741
+      },
+      {
+        "source": "apple_10k",
+        "page": 35,
+        "score": 0.725
+      },
+      {
+        "source": "apple_10k",
+        "page": 36,
+        "score": 0.721
+      },
+      {
+        "source": "apple_10k",
+        "page": 31,
+        "score": 0.708
+      },
+      {
+        "source": "apple_10k",
+        "page": 33,
+        "score": 0.707
+      },
+      {
+        "source": "apple_10k",
+        "page": 4,
+        "score": 0.695
+      },
+      {
+        "source": "apple_10k",
+        "page": 48,
+        "score": 0.69
+      }
+    ],
+    "cited": [],
+    "retrieval_hit": false,
+    "citation_correct": false,
+    "error": null,
+    "judge": {
+      "correct": false,
+      "reason": "System answer failed to provide the required employee count of about 166,000."
+    }
+  },
+  {
+    "id": "q04",
+    "category": "single_fact_apple",
+    "question": "What were Apple's iPhone net sales in fiscal 2025?",
+    "expected_answer": "$209,586 million",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        26,
+        39
+      ]
+    },
+    "answerable": true,
+    "answer": "Apple’s iPhone net sales for fiscal 2025 were $209,586 million [apple_10k, page 26].",
+    "retrieved": [
+      {
+        "source": "apple_10k",
+        "page": 26,
+        "score": 0.812
+      },
+      {
+        "source": "apple_10k",
+        "page": 25,
+        "score": 0.776
+      },
+      {
+        "source": "apple_10k",
+        "page": 51,
+        "score": 0.746
+      },
+      {
+        "source": "apple_10k",
+        "page": 27,
+        "score": 0.745
+      },
+      {
+        "source": "apple_10k",
+        "page": 39,
+        "score": 0.745
+      },
+      {
+        "source": "apple_10k",
+        "page": 32,
+        "score": 0.727
+      },
+      {
+        "source": "apple_10k",
+        "page": 24,
+        "score": 0.724
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 68,
+        "score": 0.718
+      }
+    ],
+    "cited": [
+      [
+        "apple_10k",
+        26
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer matches the expected net sales figure"
+    }
+  },
+  {
+    "id": "q05",
+    "category": "single_fact_apple",
+    "question": "What was Apple's Services gross margin percentage in fiscal 2025?",
+    "expected_answer": "75.4%",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        27
+      ]
+    },
+    "answerable": true,
+    "answer": "Apple’s Services gross margin percentage for fiscal 2025 was **75.4%**[apple_10k, page 27].",
+    "retrieved": [
+      {
+        "source": "apple_10k",
+        "page": 32,
+        "score": 0.775
+      },
+      {
+        "source": "apple_10k",
+        "page": 27,
+        "score": 0.767
+      },
+      {
+        "source": "apple_10k",
+        "page": 26,
+        "score": 0.754
+      },
+      {
+        "source": "apple_10k",
+        "page": 27,
+        "score": 0.749
+      },
+      {
+        "source": "apple_10k",
+        "page": 34,
+        "score": 0.747
+      },
+      {
+        "source": "apple_10k",
+        "page": 44,
+        "score": 0.729
+      },
+      {
+        "source": "apple_10k",
+        "page": 24,
+        "score": 0.726
+      },
+      {
+        "source": "apple_10k",
+        "page": 43,
+        "score": 0.72
+      }
+    ],
+    "cited": [
+      [
+        "apple_10k",
+        27
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer matches the expected 75.4% gross margin"
+    }
+  },
+  {
+    "id": "q06",
+    "category": "single_fact_apple",
+    "question": "What were Greater China net sales in fiscal 2025, and did they rise or fall?",
+    "expected_answer": "$64,377 million, down 4%",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        25
+      ]
+    },
+    "answerable": true,
+    "answer": "Greater China net sales were **$64,377 million** in fiscal 2025, and they **decreased** compared with 2024 [apple_10k, page 25].",
+    "retrieved": [
+      {
+        "source": "apple_10k",
+        "page": 51,
+        "score": 0.745
+      },
+      {
+        "source": "apple_10k",
+        "page": 25,
+        "score": 0.713
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 78,
+        "score": 0.674
+      },
+      {
+        "source": "apple_10k",
+        "page": 26,
+        "score": 0.673
+      },
+      {
+        "source": "apple_10k",
+        "page": 27,
+        "score": 0.67
+      },
+      {
+        "source": "walmart_10k",
+        "page": 38,
+        "score": 0.667
+      },
+      {
+        "source": "walmart_10k",
+        "page": 41,
+        "score": 0.666
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 68,
+        "score": 0.661
+      }
+    ],
+    "cited": [
+      [
+        "apple_10k",
+        25
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer gives the correct amount and correctly states the sales fell."
+    }
+  },
+  {
+    "id": "q07",
+    "category": "single_fact_apple",
+    "question": "How much common stock did Apple repurchase in fiscal 2025?",
+    "expected_answer": "$89.3 billion (402 million shares)",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        29,
+        47
+      ]
+    },
+    "answerable": true,
+    "answer": "Apple repurchased approximately 402 million shares of its common stock during fiscal 2025, at a total cost of about $89.3 billion [apple_10k, page 47].",
+    "retrieved": [
+      {
+        "source": "apple_10k",
+        "page": 47,
+        "score": 0.835
+      },
+      {
+        "source": "apple_10k",
+        "page": 22,
+        "score": 0.817
+      },
+      {
+        "source": "apple_10k",
+        "page": 48,
+        "score": 0.811
+      },
+      {
+        "source": "apple_10k",
+        "page": 35,
+        "score": 0.787
+      },
+      {
+        "source": "apple_10k",
+        "page": 34,
+        "score": 0.781
+      },
+      {
+        "source": "apple_10k",
+        "page": 32,
+        "score": 0.771
+      },
+      {
+        "source": "walmart_10k",
+        "page": 44,
+        "score": 0.769
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 287,
+        "score": 0.761
+      }
+    ],
+    "cited": [
+      [
+        "apple_10k",
+        47
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides both $89.3 billion and 402 million shares, matching expected answer."
+    }
+  },
+  {
+    "id": "q08",
+    "category": "single_fact_apple",
+    "question": "What fine did the European Commission impose on Apple under the Digital Markets Act in April 2025?",
+    "expected_answer": "€500 million",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        21
+      ]
+    },
+    "answerable": true,
+    "answer": "The European Commission fined Apple €500 million under the Digital Markets Act in April 2025 [apple_10k, page 21].",
+    "retrieved": [
+      {
+        "source": "apple_10k",
+        "page": 21,
+        "score": 0.722
+      },
+      {
+        "source": "apple_10k",
+        "page": 17,
+        "score": 0.71
+      },
+      {
+        "source": "apple_10k",
+        "page": 17,
+        "score": 0.683
+      },
+      {
+        "source": "apple_10k",
+        "page": 1,
+        "score": 0.667
+      },
+      {
+        "source": "apple_10k",
+        "page": 64,
+        "score": 0.658
+      },
+      {
+        "source": "apple_10k",
+        "page": 62,
+        "score": 0.657
+      },
+      {
+        "source": "apple_10k",
+        "page": 80,
+        "score": 0.656
+      },
+      {
+        "source": "apple_10k",
+        "page": 21,
+        "score": 0.653
+      }
+    ],
+    "cited": [
+      [
+        "apple_10k",
+        21
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides the exact €500 million fine as expected"
+    }
+  },
+  {
+    "id": "q09",
+    "category": "single_fact_walmart",
+    "question": "What were Walmart's total revenues in fiscal 2026?",
+    "expected_answer": "$713,163 million (about $713.2B), up 4.7%",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        38,
+        52,
+        77
+      ]
+    },
+    "answerable": true,
+    "answer": "Walmart’s total revenues for fiscal 2026 were **$713,163 million**[walmart_10k, page 52].",
+    "retrieved": [
+      {
+        "source": "walmart_10k",
+        "page": 40,
+        "score": 0.815
+      },
+      {
+        "source": "walmart_10k",
+        "page": 79,
+        "score": 0.81
+      },
+      {
+        "source": "walmart_10k",
+        "page": 52,
+        "score": 0.805
+      },
+      {
+        "source": "walmart_10k",
+        "page": 38,
+        "score": 0.797
+      },
+      {
+        "source": "walmart_10k",
+        "page": 78,
+        "score": 0.789
+      },
+      {
+        "source": "walmart_10k",
+        "page": 39,
+        "score": 0.777
+      },
+      {
+        "source": "walmart_10k",
+        "page": 56,
+        "score": 0.772
+      },
+      {
+        "source": "walmart_10k",
+        "page": 39,
+        "score": 0.763
+      }
+    ],
+    "cited": [
+      [
+        "walmart_10k",
+        52
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides the exact revenue figure $713,163 million as expected."
+    }
+  },
+  {
+    "id": "q10",
+    "category": "single_fact_walmart",
+    "question": "What was Walmart's consolidated net income attributable to Walmart in fiscal 2026?",
+    "expected_answer": "$21,893 million",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        52,
+        53,
+        63
+      ]
+    },
+    "answerable": true,
+    "answer": "Walmart’s consolidated net income attributable to Walmart for fiscal 2026 was **$21,893 million**[walmart_10k, page 52].",
+    "retrieved": [
+      {
+        "source": "walmart_10k",
+        "page": 52,
+        "score": 0.825
+      },
+      {
+        "source": "walmart_10k",
+        "page": 53,
+        "score": 0.815
+      },
+      {
+        "source": "walmart_10k",
+        "page": 56,
+        "score": 0.795
+      },
+      {
+        "source": "walmart_10k",
+        "page": 40,
+        "score": 0.781
+      },
+      {
+        "source": "walmart_10k",
+        "page": 79,
+        "score": 0.778
+      },
+      {
+        "source": "walmart_10k",
+        "page": 57,
+        "score": 0.777
+      },
+      {
+        "source": "walmart_10k",
+        "page": 38,
+        "score": 0.772
+      },
+      {
+        "source": "walmart_10k",
+        "page": 39,
+        "score": 0.765
+      }
+    ],
+    "cited": [
+      [
+        "walmart_10k",
+        52
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides the exact $21,893 million figure as expected."
+    }
+  },
+  {
+    "id": "q11",
+    "category": "single_fact_walmart",
+    "question": "What were Walmart's diluted earnings per share in fiscal 2026?",
+    "expected_answer": "$2.73",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        52
+      ]
+    },
+    "answerable": true,
+    "answer": "Walmart’s diluted earnings per share for fiscal 2026 were **$2.73** per share[walmart_10k, page 52][walmart_10k, page 63].",
+    "retrieved": [
+      {
+        "source": "walmart_10k",
+        "page": 52,
+        "score": 0.811
+      },
+      {
+        "source": "walmart_10k",
+        "page": 38,
+        "score": 0.794
+      },
+      {
+        "source": "walmart_10k",
+        "page": 40,
+        "score": 0.793
+      },
+      {
+        "source": "walmart_10k",
+        "page": 79,
+        "score": 0.785
+      },
+      {
+        "source": "walmart_10k",
+        "page": 39,
+        "score": 0.784
+      },
+      {
+        "source": "walmart_10k",
+        "page": 39,
+        "score": 0.772
+      },
+      {
+        "source": "walmart_10k",
+        "page": 54,
+        "score": 0.772
+      },
+      {
+        "source": "walmart_10k",
+        "page": 63,
+        "score": 0.77
+      }
+    ],
+    "cited": [
+      [
+        "walmart_10k",
+        52
+      ],
+      [
+        "walmart_10k",
+        63
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides the exact $2.73 EPS as expected."
+    }
+  },
+  {
+    "id": "q12",
+    "category": "single_fact_walmart",
+    "question": "What was Walmart's consolidated operating income in fiscal 2026?",
+    "expected_answer": "$29,825 million",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        35,
+        36,
+        38,
+        52
+      ]
+    },
+    "answerable": true,
+    "answer": "Walmart’s consolidated operating income for fiscal 2026 was **$29,825 million**[walmart_10k, page 52].",
+    "retrieved": [
+      {
+        "source": "walmart_10k",
+        "page": 52,
+        "score": 0.824
+      },
+      {
+        "source": "walmart_10k",
+        "page": 56,
+        "score": 0.812
+      },
+      {
+        "source": "walmart_10k",
+        "page": 40,
+        "score": 0.8
+      },
+      {
+        "source": "walmart_10k",
+        "page": 57,
+        "score": 0.794
+      },
+      {
+        "source": "walmart_10k",
+        "page": 38,
+        "score": 0.78
+      },
+      {
+        "source": "walmart_10k",
+        "page": 39,
+        "score": 0.778
+      },
+      {
+        "source": "walmart_10k",
+        "page": 53,
+        "score": 0.776
+      },
+      {
+        "source": "walmart_10k",
+        "page": 39,
+        "score": 0.776
+      }
+    ],
+    "cited": [
+      [
+        "walmart_10k",
+        52
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides the exact expected operating income figure."
+    }
+  },
+  {
+    "id": "q13",
+    "category": "single_fact_walmart",
+    "question": "How many stores does Walmart operate, and in how many countries?",
+    "expected_answer": "More than 10,900 stores in 19 countries",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        6
+      ]
+    },
+    "answerable": true,
+    "answer": "Walmart operates **more than 10,900 stores** worldwide, spanning **19 countries**. The company’s U.S. segment runs 4,611 stores, while its International segment runs 5,743 stores in 18 countries outside the United States, together giving a global footprint of over 10,900 stores in 19 countries [walmart_10k, page 6]; [walmart_10k, page 7].",
+    "retrieved": [
+      {
+        "source": "walmart_10k",
+        "page": 7,
+        "score": 0.751
+      },
+      {
+        "source": "walmart_10k",
+        "page": 22,
+        "score": 0.749
+      },
+      {
+        "source": "walmart_10k",
+        "page": 6,
+        "score": 0.735
+      },
+      {
+        "source": "walmart_10k",
+        "page": 7,
+        "score": 0.724
+      },
+      {
+        "source": "walmart_10k",
+        "page": 7,
+        "score": 0.708
+      },
+      {
+        "source": "walmart_10k",
+        "page": 29,
+        "score": 0.69
+      },
+      {
+        "source": "walmart_10k",
+        "page": 6,
+        "score": 0.685
+      },
+      {
+        "source": "walmart_10k",
+        "page": 29,
+        "score": 0.68
+      }
+    ],
+    "cited": [
+      [
+        "walmart_10k",
+        6
+      ],
+      [
+        "walmart_10k",
+        7
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides the same store count and country count as expected."
+    }
+  },
+  {
+    "id": "q14",
+    "category": "single_fact_walmart",
+    "question": "About how many associates does Walmart employ worldwide?",
+    "expected_answer": "About 2.1 million",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        6,
+        10
+      ]
+    },
+    "answerable": true,
+    "answer": "Walmart employs roughly 2.1 million associates worldwide as of January 31, 2026[walmart_10k, page 6].",
+    "retrieved": [
+      {
+        "source": "walmart_10k",
+        "page": 76,
+        "score": 0.715
+      },
+      {
+        "source": "walmart_10k",
+        "page": 6,
+        "score": 0.707
+      },
+      {
+        "source": "walmart_10k",
+        "page": 7,
+        "score": 0.699
+      },
+      {
+        "source": "walmart_10k",
+        "page": 6,
+        "score": 0.69
+      },
+      {
+        "source": "walmart_10k",
+        "page": 7,
+        "score": 0.683
+      },
+      {
+        "source": "walmart_10k",
+        "page": 10,
+        "score": 0.682
+      },
+      {
+        "source": "walmart_10k",
+        "page": 29,
+        "score": 0.677
+      },
+      {
+        "source": "walmart_10k",
+        "page": 8,
+        "score": 0.666
+      }
+    ],
+    "cited": [
+      [
+        "walmart_10k",
+        6
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer matches the expected figure of about 2.1 million associates."
+    }
+  },
+  {
+    "id": "q15",
+    "category": "single_fact_walmart",
+    "question": "What was the annual dividend per share for fiscal 2026, and what is it for fiscal 2027?",
+    "expected_answer": "$0.94 for fiscal 2026 and $0.99 for fiscal 2027",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        44
+      ]
+    },
+    "answerable": true,
+    "answer": "The fiscal 2026 annual dividend was **$0.94 per share**, and the fiscal 2027 annual dividend was **$0.99 per share** [walmart_10k, page 44].",
+    "retrieved": [
+      {
+        "source": "walmart_10k",
+        "page": 44,
+        "score": 0.781
+      },
+      {
+        "source": "walmart_10k",
+        "page": 79,
+        "score": 0.716
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 99,
+        "score": 0.711
+      },
+      {
+        "source": "walmart_10k",
+        "page": 38,
+        "score": 0.71
+      },
+      {
+        "source": "walmart_10k",
+        "page": 39,
+        "score": 0.707
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 56,
+        "score": 0.698
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 170,
+        "score": 0.698
+      },
+      {
+        "source": "walmart_10k",
+        "page": 67,
+        "score": 0.696
+      }
+    ],
+    "cited": [
+      [
+        "walmart_10k",
+        44
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer matches both dividend amounts exactly."
+    }
+  },
+  {
+    "id": "q16",
+    "category": "single_fact_walmart",
+    "question": "What capital expenditures did Walmart have in fiscal 2026, and what does it project for fiscal 2027?",
+    "expected_answer": "$26,642 million in fiscal 2026; about $25-27 billion projected for fiscal 2027",
+    "acceptable_pages": {
+      "walmart_10k.pdf": [
+        36,
+        42,
+        78
+      ]
+    },
+    "answerable": true,
+    "answer": "Walmart’s capital expenditures for fiscal 2026 were $26,642 million [wal​mart_10k, page 78] (the same total is shown in the capital‑allocation table [wal​mart_10k, page 36]).  \n\nThe excerpts do not contain any statement or estimate of the amount Walmart expects to spend on capital expenditures in fiscal 2027, so a projection cannot be provided from the information given.",
+    "retrieved": [
+      {
+        "source": "walmart_10k",
+        "page": 78,
+        "score": 0.782
+      },
+      {
+        "source": "walmart_10k",
+        "page": 38,
+        "score": 0.754
+      },
+      {
+        "source": "walmart_10k",
+        "page": 40,
+        "score": 0.741
+      },
+      {
+        "source": "walmart_10k",
+        "page": 54,
+        "score": 0.736
+      },
+      {
+        "source": "walmart_10k",
+        "page": 79,
+        "score": 0.73
+      },
+      {
+        "source": "walmart_10k",
+        "page": 56,
+        "score": 0.726
+      },
+      {
+        "source": "walmart_10k",
+        "page": 52,
+        "score": 0.724
+      },
+      {
+        "source": "walmart_10k",
+        "page": 36,
+        "score": 0.707
+      }
+    ],
+    "cited": [
+      [
+        "walmart_10k",
+        36
+      ],
+      [
+        "walmart_10k",
+        78
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": false,
+      "reason": "System answer omitted the projected fiscal 2027 capital expenditures."
+    }
+  },
+  {
+    "id": "q17",
+    "category": "single_fact_jpmorgan",
+    "question": "What was JPMorgan's net income in 2025?",
+    "expected_answer": "$57,048 million (about $57.0B)",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46,
+        49,
+        167
+      ]
+    },
+    "answerable": true,
+    "answer": "JPMorgan Chase reported net income of **$57.0 billion** for the year ended December 31, 2025 [ jpmorgan_10k, page 49 ]; the same figure appears in the consolidated statement of comprehensive income table [ jpmorgan_10k, page 168 ].",
+    "retrieved": [
+      {
+        "source": "jpmorgan_10k",
+        "page": 73,
+        "score": 0.765
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 83,
+        "score": 0.764
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 68,
+        "score": 0.764
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 52,
+        "score": 0.757
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 48,
+        "score": 0.754
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 49,
+        "score": 0.748
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 168,
+        "score": 0.743
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 289,
+        "score": 0.742
+      }
+    ],
+    "cited": [
+      [
+        "jpmorgan_10k",
+        49
+      ],
+      [
+        "jpmorgan_10k",
+        168
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer gives $57.0 billion, matching $57,048 million expected."
+    }
+  },
+  {
+    "id": "q18",
+    "category": "single_fact_jpmorgan",
+    "question": "What was JPMorgan's total net revenue in 2025?",
+    "expected_answer": "$182,447 million (about $182.4B), up 3%",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46,
+        49,
+        53
+      ]
+    },
+    "answerable": true,
+    "answer": "JPMorgan reported total net revenue of $182,447 million (≈ $182.4 billion) for 2025 [ jpmorgan_10k, page 49 ].",
+    "retrieved": [
+      {
+        "source": "jpmorgan_10k",
+        "page": 73,
+        "score": 0.773
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 81,
+        "score": 0.769
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 68,
+        "score": 0.769
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 83,
+        "score": 0.748
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 52,
+        "score": 0.745
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 48,
+        "score": 0.745
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 307,
+        "score": 0.743
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 49,
+        "score": 0.742
+      }
+    ],
+    "cited": [
+      [
+        "jpmorgan_10k",
+        49
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides the exact net revenue figure matching the expected answer."
+    }
+  },
+  {
+    "id": "q19",
+    "category": "single_fact_jpmorgan",
+    "question": "What were JPMorgan's diluted earnings per share in 2025?",
+    "expected_answer": "$20.02",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46,
+        49,
+        167,
+        288
+      ]
+    },
+    "answerable": true,
+    "answer": "JPMorgan Chase reported diluted earnings per share of **$20.05** for the year ended December 31 2025[jpmorgan_10k, page 288].",
+    "retrieved": [
+      {
+        "source": "jpmorgan_10k",
+        "page": 52,
+        "score": 0.773
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 48,
+        "score": 0.77
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 288,
+        "score": 0.77
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 168,
+        "score": 0.75
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 49,
+        "score": 0.749
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 317,
+        "score": 0.744
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 287,
+        "score": 0.743
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 289,
+        "score": 0.743
+      }
+    ],
+    "cited": [
+      [
+        "jpmorgan_10k",
+        288
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": false,
+      "reason": "System answer gave $20.05 instead of the expected $20.02"
+    }
+  },
+  {
+    "id": "q20",
+    "category": "single_fact_jpmorgan",
+    "question": "What was JPMorgan's CET1 capital ratio at year-end 2025 (Standardized)?",
+    "expected_answer": "14.6%",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46,
+        49,
+        50,
+        96
+      ]
+    },
+    "answerable": true,
+    "answer": "JPMorgan’s Standardized CET1 capital ratio at year‑end 2025 was **14.6 %**[jpmorgan_10k, page 49].",
+    "retrieved": [
+      {
+        "source": "jpmorgan_10k",
+        "page": 49,
+        "score": 0.782
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 296,
+        "score": 0.775
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 317,
+        "score": 0.765
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 50,
+        "score": 0.745
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 48,
+        "score": 0.744
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 295,
+        "score": 0.741
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 96,
+        "score": 0.736
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 296,
+        "score": 0.736
+      }
+    ],
+    "cited": [
+      [
+        "jpmorgan_10k",
+        49
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer matches the expected CET1 ratio of 14.6%"
+    }
+  },
+  {
+    "id": "q21",
+    "category": "single_fact_jpmorgan",
+    "question": "What were JPMorgan's total assets at December 31, 2025?",
+    "expected_answer": "$4,424,900 million (about $4.42 trillion)",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46,
+        57,
+        169
+      ]
+    },
+    "answerable": true,
+    "answer": "JPMorgan Chase reported total assets of **$4,424,900 million** (approximately $4.4 trillion) at December 31, 2025[jpmorgan_10k, page 169]. The MD&A also notes that the firm “had $4.4 trillion in assets … as of December 31, 2025”[jpmorgan_10k, page 48].",
+    "retrieved": [
+      {
+        "source": "jpmorgan_10k",
+        "page": 169,
+        "score": 0.792
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 48,
+        "score": 0.782
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 317,
+        "score": 0.781
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 81,
+        "score": 0.78
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 60,
+        "score": 0.776
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 168,
+        "score": 0.773
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 313,
+        "score": 0.767
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 307,
+        "score": 0.76
+      }
+    ],
+    "cited": [
+      [
+        "jpmorgan_10k",
+        48
+      ],
+      [
+        "jpmorgan_10k",
+        169
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides the exact total assets figure $4,424,900 million as expected."
+    }
+  },
+  {
+    "id": "q22",
+    "category": "single_fact_jpmorgan",
+    "question": "How many employees did JPMorgan have at December 31, 2025?",
+    "expected_answer": "318,512, in 66 countries",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        9
+      ]
+    },
+    "answerable": true,
+    "answer": "JPMorgan Chase had **318,512 employees** worldwide as of December 31, 2025[jpmorgan_10k, page 9].",
+    "retrieved": [
+      {
+        "source": "jpmorgan_10k",
+        "page": 9,
+        "score": 0.769
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 48,
+        "score": 0.743
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 287,
+        "score": 0.732
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 39,
+        "score": 0.731
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 317,
+        "score": 0.718
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 313,
+        "score": 0.715
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 81,
+        "score": 0.713
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 293,
+        "score": 0.712
+      }
+    ],
+    "cited": [
+      [
+        "jpmorgan_10k",
+        9
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System provided the correct employee count of 318,512"
+    }
+  },
+  {
+    "id": "q23",
+    "category": "single_fact_jpmorgan",
+    "question": "What was the Asset & Wealth Management segment's net income in 2025?",
+    "expected_answer": "$6,522 million (about $6.5B), up 20%",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        78
+      ]
+    },
+    "answerable": true,
+    "answer": "The Asset & Wealth Management segment reported net income of **$6.5 billion (≈ $6,522 million) for 2025**[jpmorgan_10k, page 78].",
+    "retrieved": [
+      {
+        "source": "jpmorgan_10k",
+        "page": 78,
+        "score": 0.746
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 73,
+        "score": 0.736
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 68,
+        "score": 0.735
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 83,
+        "score": 0.71
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 66,
+        "score": 0.7
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 167,
+        "score": 0.688
+      },
+      {
+        "source": "apple_10k",
+        "page": 51,
+        "score": 0.686
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 120,
+        "score": 0.684
+      }
+    ],
+    "cited": [
+      [
+        "jpmorgan_10k",
+        78
+      ]
+    ],
+    "retrieval_hit": true,
+    "citation_correct": true,
+    "error": null,
+    "judge": {
+      "correct": true,
+      "reason": "System answer provides the correct net income figure matching $6,522 million (≈ $6.5B)."
+    }
+  },
+  {
+    "id": "q24",
+    "category": "single_fact_jpmorgan",
+    "question": "What dividends per share did JPMorgan declare in 2025?",
+    "expected_answer": "$5.80 per share (up from $4.80 in 2024)",
+    "acceptable_pages": {
+      "jpmorgan_10k.pdf": [
+        46,
+        170
+      ]
+    },
+    "answerable": true,
+    "answer": "JPMorgan Chase declared the following quarterly dividends per share on its non‑cumulative preferred stock for 2025:\n\n| Series | Dividend declared per share (2025) |\n|--------|-----------------------------------|\n| DD (Fixed‑rate) | $575.00 |\n| EE (Fixed‑rate) | $600.00 |\n| GG (Fixed‑rate) | $475.00 |\n| JJ (Fixed‑rate) | $455.00 |\n| LL (Fixed‑rate) | $462.52 |\n| MM (Fixed‑rate) | $420.00 |\n\nThese amounts are shown in the “Dividend declared per share” column of the preferred‑stock summary for the year ended December 31, 2025[jpmorgan_10k, page 285].",
+    "retrieved": [
+      {
+        "source": "jpmorgan_10k",
+        "page": 48,
+        "score": 0.769
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 52,
+        "score": 0.768
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 285,
+        "score": 0.763
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 39,
+        "score": 0.751
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 285,
+        "score": 0.745
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 287,
+        "score": 0.745
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 47,
+        "score": 0.745
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 49,
+        "score": 0.738
+      }
+    ],
+    "cited": [
+      [
+        "jpmorgan_10k",
+        285
+      ]
+    ],
+    "retrieval_hit": false,
+    "citation_correct": false,
+    "error": null,
+    "judge": {
+      "correct": false,
+      "reason": "System answer gives unrelated preferred stock dividend amounts, not the $5.80 per share dividend."
+    }
+  },
+  {
+    "id": "q25",
+    "category": "cross_company",
+    "question": "Among Apple, Walmart and JPMorgan, which reported the highest net income in its latest fiscal year, and what were the three figures?",
+    "expected_answer": "Apple, at $112,010M (FY ended Sept 27, 2025). JPMorgan reported $57,048M (2025) and Walmart $21,893M (FY ended Jan 31, 2026).",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        32,
+        33,
+        39
+      ],
+      "walmart_10k.pdf": [
+        52,
+        53,
+        63
+      ],
+      "jpmorgan_10k.pdf": [
+        46,
+        49,
+        167
+      ]
+    },
+    "answerable": true,
+    "answer": "Based on the excerpts:\n\n- **Walmart** reported consolidated net income of **$22,270 million** for fiscal 2026 — the most recent year shown. [walmart_10k, page 52]  \n- **JPMorgan Chase** reported net income of **$18.2 billion** for 2025, its latest fiscal year in the excerpt. [jpmorgan_10k, page 68]  \n- The Apple excerpt provides net‑sales, cost of sales, and operating income figures, but it does **not include a net‑income amount** for its most recent fiscal year. [apple_10k, page 50]\n\nTherefore, among the companies for which net‑income data are available, **Walmart reported the highest net income ($22.27 billion), followed by JPMorgan ($18.2 billion).** Apple’s net‑income figure is not provided in the supplied excerpts, so a complete comparison cannot be made.",
+    "retrieved": [
+      {
+        "source": "walmart_10k",
+        "page": 52,
+        "score": 0.661
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 68,
+        "score": 0.658
+      },
+      {
+        "source": "walmart_10k",
+        "page": 40,
+        "score": 0.65
+      },
+      {
+        "source": "walmart_10k",
+        "page": 79,
+        "score": 0.64
+      },
+      {
+        "source": "walmart_10k",
+        "page": 78,
+        "score": 0.639
+      },
+      {
+        "source": "walmart_10k",
+        "page": 38,
+        "score": 0.635
+      },
+      {
+        "source": "walmart_10k",
+        "page": 35,
+        "score": 0.633
+      },
+      {
+        "source": "apple_10k",
+        "page": 50,
+        "score": 0.631
+      }
+    ],
+    "cited": [
+      [
+        "apple_10k",
+        50
+      ],
+      [
+        "jpmorgan_10k",
+        68
+      ],
+      [
+        "walmart_10k",
+        52
+      ]
+    ],
+    "retrieval_hit": false,
+    "citation_correct": false,
+    "error": null,
+    "judge": {
+      "correct": false,
+      "reason": "System answer provides wrong net income numbers and omits Apple's figure, not matching expected values."
+    }
+  },
+  {
+    "id": "q26",
+    "category": "cross_company",
+    "question": "Compare the diluted earnings per share of Apple, Walmart and JPMorgan. Which is highest?",
+    "expected_answer": "JPMorgan is highest at $20.02. Apple is $7.46 and Walmart is $2.73.",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        32
+      ],
+      "walmart_10k.pdf": [
+        52
+      ],
+      "jpmorgan_10k.pdf": [
+        46,
+        49,
+        167
+      ]
+    },
+    "answerable": true,
+    "answer": "JPMorgan Chase’s diluted earnings per share were $20.02 for the most recent year presented [ jpmorgan_10k, page 288 ].  \nWalmart’s diluted net income per share was $2.73 for the most recent fiscal year presented [ walmart_10k, page 52 ].  \n\nThe excerpts do not contain any diluted earnings‑per‑share figure for Apple, so a three‑company comparison cannot be completed.  \n\nBased on the available data, JPMorgan Chase’s diluted EPS ($20.02) is higher than Walmart’s diluted EPS ($2.73).",
+    "retrieved": [
+      {
+        "source": "jpmorgan_10k",
+        "page": 288,
+        "score": 0.688
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 67,
+        "score": 0.679
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 47,
+        "score": 0.674
+      },
+      {
+        "source": "walmart_10k",
+        "page": 57,
+        "score": 0.669
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 3,
+        "score": 0.668
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 51,
+        "score": 0.665
+      },
+      {
+        "source": "walmart_10k",
+        "page": 52,
+        "score": 0.665
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 288,
+        "score": 0.664
+      }
+    ],
+    "cited": [
+      [
+        "jpmorgan_10k",
+        288
+      ],
+      [
+        "walmart_10k",
+        52
+      ]
+    ],
+    "retrieval_hit": false,
+    "citation_correct": false,
+    "error": null,
+    "judge": {
+      "correct": false,
+      "reason": "System answer omitted Apple’s EPS and did not provide the full comparison."
+    }
+  },
+  {
+    "id": "q27",
+    "category": "cross_company",
+    "question": "How many employees does each of the three companies have?",
+    "expected_answer": "Apple has about 166,000 full-time equivalent employees. Walmart has about 2.1 million associates. JPMorgan has 318,512 employees.",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        7
+      ],
+      "walmart_10k.pdf": [
+        6,
+        10
+      ],
+      "jpmorgan_10k.pdf": [
+        9
+      ]
+    },
+    "answerable": true,
+    "answer": "- JPMorgan Chase: 318,512 employees globally as of December 31 2025 [ jpmorgan_10k, page 9 ].  \n\n- Apple Inc.: The excerpts do not contain any information about Apple’s number of employees.  \n\n- Walmart Inc.: The excerpts do not contain any information about Walmart’s number of employees.  ",
+    "retrieved": [
+      {
+        "source": "jpmorgan_10k",
+        "page": 9,
+        "score": 0.679
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 82,
+        "score": 0.625
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 45,
+        "score": 0.615
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 9,
+        "score": 0.606
+      },
+      {
+        "source": "apple_10k",
+        "page": 4,
+        "score": 0.605
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 122,
+        "score": 0.604
+      },
+      {
+        "source": "walmart_10k",
+        "page": 74,
+        "score": 0.604
+      },
+      {
+        "source": "walmart_10k",
+        "page": 6,
+        "score": 0.6
+      }
+    ],
+    "cited": [
+      [
+        "jpmorgan_10k",
+        9
+      ]
+    ],
+    "retrieval_hit": false,
+    "citation_correct": false,
+    "error": null,
+    "judge": {
+      "correct": false,
+      "reason": "System answer only provides JPMorgan's employee count and omits Apple and Walmart numbers."
+    }
+  },
+  {
+    "id": "q28",
+    "category": "unanswerable",
+    "question": "What was Tim Cook's total compensation in fiscal 2025?",
+    "expected_answer": "NOT IN FILING. Apple's Item 11 says executive compensation is in the 2026 Proxy Statement. Correct behavior: say it cannot be found.",
+    "acceptable_pages": {
+      "apple_10k.pdf": [
+        56
+      ]
+    },
+    "answerable": false,
+    "answer": "The provided excerpts do not contain any information about Tim Cook’s total compensation for fiscal 2025.",
+    "retrieved": [
+      {
+        "source": "walmart_10k",
+        "page": 41,
+        "score": 0.705
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 73,
+        "score": 0.684
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 68,
+        "score": 0.673
+      },
+      {
+        "source": "apple_10k",
+        "page": 44,
+        "score": 0.67
+      },
+      {
+        "source": "walmart_10k",
+        "page": 39,
+        "score": 0.67
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 83,
+        "score": 0.667
+      },
+      {
+        "source": "walmart_10k",
+        "page": 39,
+        "score": 0.658
+      },
+      {
+        "source": "walmart_10k",
+        "page": 38,
+        "score": 0.658
+      }
+    ],
+    "cited": [],
+    "retrieval_hit": false,
+    "citation_correct": false,
+    "error": null,
+    "judge": {
+      "refused": true,
+      "reason": "Information not found in the provided documents"
+    }
+  },
+  {
+    "id": "q29",
+    "category": "unanswerable",
+    "question": "What is Walmart's stock price today?",
+    "expected_answer": "NOT IN FILING. A 10-K has no live market data. Correct behavior: say it cannot be found.",
+    "acceptable_pages": {},
+    "answerable": false,
+    "answer": "The provided excerpts do not contain Walmart’s current stock price. Therefore, I cannot answer that question based on the available information.",
+    "retrieved": [
+      {
+        "source": "walmart_10k",
+        "page": 31,
+        "score": 0.784
+      },
+      {
+        "source": "walmart_10k",
+        "page": 6,
+        "score": 0.755
+      },
+      {
+        "source": "walmart_10k",
+        "page": 138,
+        "score": 0.731
+      },
+      {
+        "source": "walmart_10k",
+        "page": 55,
+        "score": 0.711
+      },
+      {
+        "source": "walmart_10k",
+        "page": 57,
+        "score": 0.709
+      },
+      {
+        "source": "walmart_10k",
+        "page": 88,
+        "score": 0.708
+      },
+      {
+        "source": "walmart_10k",
+        "page": 54,
+        "score": 0.705
+      },
+      {
+        "source": "walmart_10k",
+        "page": 52,
+        "score": 0.699
+      }
+    ],
+    "cited": [],
+    "retrieval_hit": null,
+    "citation_correct": null,
+    "error": null,
+    "judge": {
+      "refused": true,
+      "reason": "System correctly states the information is not in the filing"
+    }
+  },
+  {
+    "id": "q30",
+    "category": "unanswerable",
+    "question": "What were JPMorgan's first-quarter 2026 earnings?",
+    "expected_answer": "NOT IN FILING. The filing covers the year ended Dec 31, 2025. Correct behavior: say it cannot be found.",
+    "acceptable_pages": {},
+    "answerable": false,
+    "answer": "The provided excerpts do not include any data on JPMorgan’s earnings for the first quarter of 2026. They contain only forward‑looking outlook information for full‑year 2026 and historical results for 2025, but no Q1 2026 earnings figures. Consequently, the answer cannot be derived from the given material.",
+    "retrieved": [
+      {
+        "source": "jpmorgan_10k",
+        "page": 52,
+        "score": 0.769
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 48,
+        "score": 0.745
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 73,
+        "score": 0.722
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 49,
+        "score": 0.721
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 53,
+        "score": 0.72
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 289,
+        "score": 0.718
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 168,
+        "score": 0.718
+      },
+      {
+        "source": "jpmorgan_10k",
+        "page": 3,
+        "score": 0.714
+      }
+    ],
+    "cited": [],
+    "retrieval_hit": null,
+    "citation_correct": null,
+    "error": null,
+    "judge": {
+      "refused": true,
+      "reason": "Information not in filing"
+    }
+  }
+]
